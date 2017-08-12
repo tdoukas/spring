@@ -1,0 +1,31 @@
+ApplicationSetting|antialias|true
+ApplicationSetting|drawGrid|true
+ApplicationSetting|drawGridText|true
+ApplicationSetting|drawEdgeGroups|false
+ApplicationSetting|drawHalo|true
+ApplicationSetting|keepAspect|true
+ApplicationSetting|highlight|true
+ApplicationSetting|showMark|true
+ApplicationSetting|limitCpu|false
+ApplicationSetting|fixTranslation|false
+ApplicationSetting|fixRotation|false
+Graph|Matrix
+Control|File|jagmesh4.mtx
+Embedder|Fruchterman & Reingold (91)
+Control|C|500.0
+Control|Tmax|0.1
+Control|faExp|3
+Control|Auto Temp|false
+Control|Grid|true
+REModel|Concave
+Control|Force|8709.635899560813
+PathManager|V1
+Control|NumPaths|1
+Control|PathLen|41
+Control|MinTTL|141
+Control|KeepRatio|0.0
+Control|Focus|1.0
+Control|PrefDir_Focus|0.020000000000000018
+Control|PrefDir_Other|1.0
+Model|default
+Control|Friction|0.05

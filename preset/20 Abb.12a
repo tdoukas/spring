@@ -1,0 +1,30 @@
+ApplicationSetting|antialias|true
+ApplicationSetting|drawGrid|true
+ApplicationSetting|drawGridText|true
+ApplicationSetting|drawEdgeGroups|false
+ApplicationSetting|drawHalo|true
+ApplicationSetting|keepAspect|true
+ApplicationSetting|highlight|false
+ApplicationSetting|showMark|true
+ApplicationSetting|drawForces|false
+ApplicationSetting|limitCpu|false
+ApplicationSetting|syncDrawing|false
+ApplicationSetting|fixTranslation|false
+ApplicationSetting|fixRotation|false
+Graph|Rome Graph Library
+Control|Directory|Rome-Lib/graficon21nodi/
+Control|File|Rome-Lib/graficon21nodi/grafo1049.21
+Embedder|Fruchterman & Reingold (91)
+Control|C|457.0881896148753
+Control|Tmax|0.1
+Control|faExp|2
+Control|Auto Temp|false
+Control|Grid|false
+REModel|Straight
+Control|Rail mode|false
+Control|Eliminate forces at start/end|true
+PathManager|V2
+Control|PathLen|4
+Control|InitialDirection|-1.0
+Model|default
+Control|Friction|1.0

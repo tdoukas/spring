@@ -1,0 +1,26 @@
+ApplicationSetting|antialias|true
+ApplicationSetting|drawGrid|true
+ApplicationSetting|drawGridText|true
+ApplicationSetting|drawEdgeGroups|false
+ApplicationSetting|drawHalo|true
+ApplicationSetting|keepAspect|true
+ApplicationSetting|highlight|false
+ApplicationSetting|showMark|true
+ApplicationSetting|drawForces|false
+ApplicationSetting|limitCpu|false
+ApplicationSetting|syncDrawing|false
+ApplicationSetting|fixTranslation|false
+ApplicationSetting|fixRotation|false
+Graph|GraphML
+Control|Directory|graphml/8/
+Control|File|graphml/8/graph-468(8).graphml
+Embedder|Fruchterman & Reingold (91)
+Control|C|457.0881896148753
+Control|Tmax|0.25
+Control|faExp|2
+Control|Auto Temp|false
+Control|Grid|false
+REModel|None
+PathManager|None
+Model|default
+Control|Friction|1.0

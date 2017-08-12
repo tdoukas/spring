@@ -1,0 +1,29 @@
+ApplicationSetting|antialias|true
+ApplicationSetting|drawGrid|true
+ApplicationSetting|drawGridText|true
+ApplicationSetting|drawEdgeGroups|false
+ApplicationSetting|drawHalo|true
+ApplicationSetting|keepAspect|true
+ApplicationSetting|highlight|false
+ApplicationSetting|showMark|true
+ApplicationSetting|limitCpu|false
+ApplicationSetting|fixTranslation|false
+ApplicationSetting|fixRotation|false
+Graph|GraphML
+Control|Directory|graphml/10/
+Control|File|graphml/10/graph-292(10).graphml
+Embedder|Fruchterman & Reingold (91)
+Control|C|457.0881896148753
+Control|Tmax|0.1
+Control|faExp|2
+Control|Auto Temp|false
+Control|Grid|false
+REModel|Straight
+Control|Rail mode|false
+PathManager|V3
+Control|Run|false
+Control|Delay|1412.5375446227545
+Control|Degrees|9.93
+Control|Box-Dim|0.1
+Model|default
+Control|Friction|1.0

@@ -1,0 +1,23 @@
+ApplicationSetting|antialias|true
+ApplicationSetting|drawGrid|true
+ApplicationSetting|drawBackground|true
+ApplicationSetting|drawGridText|true
+ApplicationSetting|keepAspect|true
+ApplicationSetting|highlight|false
+ApplicationSetting|showMark|true
+ApplicationSetting|limitCpu|false
+ApplicationSetting|fixTranslation|false
+ApplicationSetting|fixRotation|false
+Graph|Gilbert (Random)
+Control|N|10
+Control|p|1.0
+Embedder|Fruchterman & Reingold (91)
+Control|C|500.0
+Control|Tmax|0.0
+Control|faExp|2
+Control|Auto Temp|true
+Control|Grid|false
+REModel|None
+PathManager|None
+Model|default
+Control|Friction|1.0
